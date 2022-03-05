@@ -420,7 +420,6 @@ const beautify = (tree, options) =>
     indent,
     jsPrettier,
     lowerElementName,
-    lowerAttributeName,
     attributesBoolean,
     sortAttr,
     addLang,
