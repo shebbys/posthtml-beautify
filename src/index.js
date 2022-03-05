@@ -423,8 +423,7 @@ const beautify = (tree, options) =>
     attributesBoolean,
     sortAttr,
     addLang,
-    eof,
-    mini
+    eof
   ].reduce(
     (previousValue, module) =>
       typeof module === 'function' ?
