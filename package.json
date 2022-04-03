@@ -11,7 +11,7 @@
     "email": "Scrum@list.ru",
     "url": "https://twitter.com/Scrum_"
   },
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "engines": {
     "node": ">=10"
   },
